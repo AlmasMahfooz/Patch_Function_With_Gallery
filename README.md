@@ -4,6 +4,8 @@ Patch Function With Gallery With SharePoint List as Data Source
 
 Save on Button
 --------------
+SharePoint List is like below
+https://github.com/AlmasMahfooz/Patch_Function_With_Gallery/blob/main/sharepoint%201.png
 
 
 
