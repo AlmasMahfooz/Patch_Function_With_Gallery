@@ -14,8 +14,7 @@ Set Items property of the gallery as collection collTempUnits2
 
 ![Uploading image.png…](https://github.com/AlmasMahfooz/Patch_Function_With_Gallery/blob/main/sharepoint%20Code3.png)
 
-
-
+![Uploading image.png…](https://github.com/AlmasMahfooz/Patch_Function_With_Gallery/blob/main/sharepoint%20Code4.png)
 
 
 
