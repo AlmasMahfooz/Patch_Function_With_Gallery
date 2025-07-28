@@ -20,12 +20,3 @@ Set Items property of the gallery as collection collTempUnits2
 
 ![Uploading image.png…](https://github.com/AlmasMahfooz/Patch_Function_With_Gallery/blob/main/sharepoint%20gallery%205.png)
 
-
-
-
-
-[Uploading Patch on Button.webm…]()
-
-
-
-
