@@ -23,8 +23,6 @@ Set Items property of the gallery as collection collTempUnits2
 
 
 
-[Uploading Patch on Button.webm…](https://github.com/AlmasMahfooz/Patch_Function_With_Gallery/blob/main/Patch%20on%20Button.webm)
-
 
 
 
